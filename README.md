@@ -29,4 +29,4 @@ Tutorial link in Codevolution: https://www.youtube.com/playlist?list=PLC3y8-rFHv
 
 #### Testing piramids
 
-![alt text]('./assets/imgs/Testing pyramid.png')
+![alt text](https://raw.githubusercontent.com/RakhmatullohR/React-Testing/RTT/03-Types_of_Tests/assets/imgs/Testing%20pyramid.png)
